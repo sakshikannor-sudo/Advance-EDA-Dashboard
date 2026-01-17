@@ -5,7 +5,7 @@ This application allows users to upload any CSV dataset and instantly explore, a
 <img width="1912" height="761" alt="image" src="https://github.com/user-attachments/assets/75a84414-8535-48bc-804c-0abb0dcbf280" />
 
 
----
+# Link--http://localhost:8501/-
 
 ## 🚀 Features
 
