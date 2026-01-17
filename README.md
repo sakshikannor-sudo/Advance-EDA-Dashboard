@@ -2,6 +2,8 @@
 
 An **interactive Exploratory Data Analysis (EDA) dashboard** built using **Streamlit, Plotly, Seaborn, and Pandas**.  
 This application allows users to upload any CSV dataset and instantly explore, analyze, filter, and visualize data with an elegant UI.
+<img width="1912" height="761" alt="image" src="https://github.com/user-attachments/assets/75a84414-8535-48bc-804c-0abb0dcbf280" />
+
 
 ---
 
